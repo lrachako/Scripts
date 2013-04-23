@@ -4,7 +4,7 @@
 print_usage()
 {
   cat << EOF
-Usage: xgdbvm-add-tsa.sh [options] GFF3_file
+Usage: xgdbvm-add-newGFFtrack.sh [options] GFF3_file
   Options:
     -d    MySQL database corresponding to the GDB; default is 'GDB001'
     -h    print this help message and exit
